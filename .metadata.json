@@ -1,0 +1,14 @@
+[
+  {
+    "package": "cstab",
+    "oncran": true
+  },
+  {
+    "package": "fspe",
+    "oncran": true
+  },
+  {
+    "package": "mgm",
+    "oncran": true
+  }
+]
