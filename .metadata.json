@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "inet",
+    "oncran": true
+  },
+  {
     "package": "mgm",
     "oncran": true
   }

@@ -13,6 +13,11 @@
 	url = https://github.com/jmbh/fspe
 	shallow = true
 	registered = true
+[submodule "inet"]
+	path = inet
+	url = https://github.com/jmbh/inet
+	shallow = true
+	registered = true
 [submodule "mgm"]
 	path = mgm
 	url = https://github.com/jmbh/mgm
