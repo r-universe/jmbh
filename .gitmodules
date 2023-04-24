@@ -23,3 +23,8 @@
 	url = https://github.com/jmbh/mgm
 	shallow = true
 	registered = true
+[submodule "mnet"]
+	path = mnet
+	url = https://github.com/jmbh/mnet
+	shallow = true
+	registered = true
