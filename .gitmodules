@@ -8,9 +8,6 @@
 [submodule "fspe"]
 	path = fspe
 	url = https://github.com/jmbh/fspe
-[submodule "inet"]
-	path = inet
-	url = https://github.com/jmbh/inet
 [submodule "mgm"]
 	path = mgm
 	url = https://github.com/jmbh/mgm
